@@ -12,6 +12,4 @@ public class Main {
         Ukrainian ukrainian = new Ukrainian();
         ukrainian.sayHello();
     }
-
-
 }
